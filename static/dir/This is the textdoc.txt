@@ -1,0 +1,1 @@
+changes after one more blank text file will be created in ststic directory
